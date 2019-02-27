@@ -1,2 +1,2 @@
-# friendly-palm-tree
+# Music Coach
 An intelligent music coaching program
